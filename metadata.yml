@@ -1,21 +1,18 @@
----
-name: "My OER Course"
+creativeWorkStatus: Draft
+id: https://github.com/axel-klinger/My-First-Textbook
+name: My First Textbook
+description: A simple example
+license:
+  id: https://creativecommons.org/licenses/by/4.0/deed.de
 creator:
-  - givenName: "Max"
-    familyName: "Mustermann"
-  - givenName: "Maxi"
-    familyName: "Mustermann"
-publisher:
-  givenName: "Max"
-  familyName: "Mustermann"
-keywords:
-  - "Geometry"
-  - "Pythagoras"
-  - "Mathematics"
-description: "Draft for a course"
-inLanguage: "en"
-version: 1.0
-license: "https://creativecommons.org/share-your-work/public-domain/cc0/"
-thumbnailUrl: http://placehold.it/100x100
-learningResourceType: "Module"
-creativeWorkStatus: "Draft" # Incomplete, Draft, Published
+  - givenName: Axel
+    familyName: Klinger
+    type: Person
+inLanguage:
+  - en
+about:
+  - id: https://w3id.org/kim/hochschulfaechersystematik/n079
+learningResourceType:
+  - id: https://w3id.org/kim/hcrt/textbook
+educationalLevel:
+  - id: https://w3id.org/kim/educationalLevel/level_A

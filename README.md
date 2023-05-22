@@ -8,9 +8,9 @@ This is a template for open and freely licensed texts that delivers appealing, a
 
 With every save (commit) the following documents are generated:
 
-* [Ebook](https://tibhannover.github.io/markdown-documents-template/document.epub)
-* [PDF](https://tibhannover.github.io/markdown-documents-template/document.pdf)
-* [HTML](https://tibhannover.github.io/markdown-documents-template/index.html)
+* [Ebook](https://axel-klinger.github.io/My-First-Textbook/document.epub)
+* [PDF](https://axel-klinger.github.io/My-First-Textbook/document.pdf)
+* [HTML](https://axel-klinger.github.io/My-First-Textbook/index.html)
 
 # Re-use
 
